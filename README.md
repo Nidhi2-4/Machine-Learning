@@ -10,9 +10,7 @@ This repository contains the Machine Learning laboratory assignments, practical 
 - **Program:** B.Tech Computer Science – Artificial Intelligence & Machine Learning
 - **University:** Ramdeobaba University, Nagpur
 
-## Repository Contents
-
-The repository contains practical implementations of various Machine Learning concepts and techniques covered during the laboratory sessions.
+## Labs
 
 ### Lab 1 – Data Preprocessing
 
@@ -20,7 +18,7 @@ The repository contains practical implementations of various Machine Learning co
 To study and apply data preprocessing techniques on the Titanic dataset and prepare the dataset for training with a machine learning algorithm.
 
 **Topics Covered:**
-- Loading and exploring the dataset
+- Dataset exploration
 - Handling missing values
 - Data cleaning
 - Encoding categorical variables
@@ -30,15 +28,26 @@ To study and apply data preprocessing techniques on the Titanic dataset and prep
 
 **File:** `ML_lab1.ipynb`
 
-### Lab 2
+---
 
-The Lab 2 implementation will be added to this repository.
+### Lab 2 – Linear Regression
 
-### Lab 3
+**Aim:**  
+To develop a Linear Regression model for predicting house/car prices using a suitable dataset.
 
-The Lab 3 implementation will be added to this repository.
+**Topics Covered:**
+- Loading and exploring the dataset
+- Data preprocessing
+- Feature selection
+- Splitting the dataset into training and testing sets
+- Building a Linear Regression model
+- Training the model
+- Making predictions
+- Evaluating model performance
 
-> Additional laboratory assignments will be added as they are completed.
+**File:** `ML_lab2.ipynb`
+
+---
 
 ## Technologies and Libraries Used
 
@@ -57,6 +66,5 @@ Machine-Learning/
 │
 ├── ML_lab1.ipynb
 ├── ML_lab2.ipynb
-├── ML_lab3.ipynb
-├── ...
-└── README.md
+├── README.md
+└── ...
